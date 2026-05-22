@@ -110,6 +110,14 @@ function Hero() {
             <a className="button" href="#visualizations">
               View Visualizations
             </a>
+            <a
+              className="button"
+              href="https://github.com/hikaru051058/ASNE"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>
             <a className="button" href="mailto:hshim029@ucr.edu">
               Contact
             </a>
@@ -284,6 +292,11 @@ function Privacy() {
       <p>
         The core ASNE repository is private while under active development. This page shares selected
         reports, benchmark snapshots, and visual outputs for portfolio and research showcase purposes.
+        The public project repository is available at{" "}
+        <a href="https://github.com/hikaru051058/ASNE" target="_blank" rel="noreferrer">
+          github.com/hikaru051058/ASNE
+        </a>
+        .
       </p>
       {/* TODO: Add public links to exported reports after reviewing each artifact for private-path metadata. */}
     </section>
@@ -296,6 +309,9 @@ function Footer() {
       <strong>Hikaru Shimada</strong>
       <span>UC Riverside CS</span>
       <span>AI systems / semantic evaluation / brain-inspired modeling</span>
+      <a href="https://github.com/hikaru051058/ASNE" target="_blank" rel="noreferrer">
+        GitHub
+      </a>
     </footer>
   );
 }
