@@ -57,8 +57,8 @@ const visualizationCards: VisualizationCard[] = [
     image: "assets/screenshots/semantic-dashboard.svg",
   },
   {
-    title: "Brain activity visualizer",
-    description: "Parcel-level predicted response summaries for region-oriented interpretation.",
+    title: "Brain-inspired response visualizer",
+    description: "Parcel-level predicted response summaries for brain-region-inspired interpretation.",
     image: "assets/screenshots/brain-visualizer.svg",
   },
   {
@@ -118,10 +118,10 @@ function Hero() {
         <div className="heroPanel" aria-label="ASNE benchmark summary">
           <div className="panelHeader">
             <span>v0.3-lite snapshot</span>
-            <span>Text/TTS semantic contrasts</span>
+            <span>Exploratory semantic contrast prototype</span>
           </div>
           <div className="metricStack">
-            <Metric label="Strongest contrast" value="Expected / unexpected" />
+            <Metric label="Most separable contrast" value="Expected / unexpected" />
             <Metric label="Parcel top-1" value="0.90" />
             <Metric label="Feature spaces" value="Vertex + HCP-MMP parcel" />
           </div>
@@ -152,7 +152,8 @@ function Overview() {
           ASNE evaluates controlled semantic contrasts by comparing predicted response signatures
           across paired stimulus sets. The project is designed for research-style iteration:
           generate stimuli, extract response features, compare feature spaces, and inspect the
-          resulting signal with static and temporal reports.
+          resulting signal with static and temporal reports. Current version: exploratory
+          v0.3-lite prototype.
         </p>
         <ul className="contrastList">
           <li>contradiction vs consistency</li>
