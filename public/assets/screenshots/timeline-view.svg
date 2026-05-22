@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Timeline view placeholder">
+  <rect width="1200" height="750" fill="#f7f7f7"/>
+  <rect x="74" y="74" width="1052" height="602" rx="16" fill="#fff" stroke="#d6d6d6"/>
+  <text x="112" y="136" fill="#111" font-family="Arial, sans-serif" font-size="34" font-weight="700">Segment Timeline</text>
+  <line x1="132" y1="552" x2="1056" y2="552" stroke="#111" stroke-width="3"/>
+  <line x1="132" y1="220" x2="132" y2="552" stroke="#111" stroke-width="3"/>
+  <polyline points="132,490 250,472 368,438 486,462 604,330 722,306 840,260 958,244 1056,210" fill="none" stroke="#111" stroke-width="8"/>
+  <polyline points="132,424 250,396 368,418 486,360 604,386 722,350 840,388 958,336 1056,342" fill="none" stroke="#777" stroke-width="6"/>
+  <g fill="#111">
+    <circle cx="604" cy="330" r="10"/>
+    <circle cx="840" cy="260" r="10"/>
+    <circle cx="1056" cy="210" r="10"/>
+  </g>
+</svg>

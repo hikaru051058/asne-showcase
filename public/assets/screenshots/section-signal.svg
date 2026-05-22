@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Section signal view placeholder">
+  <rect width="1200" height="750" fill="#f7f7f7"/>
+  <rect x="76" y="78" width="1048" height="120" rx="14" fill="#111"/>
+  <text x="112" y="148" fill="#fff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Section Signal View</text>
+  <rect x="76" y="244" width="310" height="370" rx="12" fill="#fff" stroke="#d6d6d6"/>
+  <rect x="445" y="244" width="310" height="370" rx="12" fill="#fff" stroke="#d6d6d6"/>
+  <rect x="814" y="244" width="310" height="370" rx="12" fill="#fff" stroke="#d6d6d6"/>
+  <g fill="#111">
+    <rect x="116" y="330" width="230" height="22"/>
+    <rect x="116" y="382" width="172" height="22"/>
+    <rect x="116" y="434" width="208" height="22"/>
+    <rect x="485" y="330" width="206" height="22"/>
+    <rect x="485" y="382" width="240" height="22"/>
+    <rect x="485" y="434" width="160" height="22"/>
+    <rect x="854" y="330" width="192" height="22"/>
+    <rect x="854" y="382" width="238" height="22"/>
+    <rect x="854" y="434" width="218" height="22"/>
+  </g>
+</svg>

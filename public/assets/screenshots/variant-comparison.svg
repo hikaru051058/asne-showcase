@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Variant comparison view placeholder">
+  <rect width="1200" height="750" fill="#f7f7f7"/>
+  <rect x="72" y="72" width="1056" height="606" rx="18" fill="#fff" stroke="#d6d6d6"/>
+  <text x="112" y="136" fill="#111" font-family="Arial, sans-serif" font-size="34" font-weight="700">Variant Comparison</text>
+  <g stroke="#d6d6d6">
+    <line x1="112" y1="210" x2="1088" y2="210"/>
+    <line x1="112" y1="304" x2="1088" y2="304"/>
+    <line x1="112" y1="398" x2="1088" y2="398"/>
+    <line x1="112" y1="492" x2="1088" y2="492"/>
+    <line x1="112" y1="586" x2="1088" y2="586"/>
+  </g>
+  <g fill="#111">
+    <rect x="310" y="242" width="420" height="26"/>
+    <rect x="310" y="336" width="520" height="26"/>
+    <rect x="310" y="430" width="360" height="26"/>
+    <rect x="310" y="524" width="610" height="26"/>
+  </g>
+  <g fill="#777">
+    <rect x="310" y="270" width="350" height="16"/>
+    <rect x="310" y="364" width="480" height="16"/>
+    <rect x="310" y="458" width="310" height="16"/>
+    <rect x="310" y="552" width="550" height="16"/>
+  </g>
+</svg>

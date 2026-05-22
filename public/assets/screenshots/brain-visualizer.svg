@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Brain activity visualizer placeholder">
+  <rect width="1200" height="750" fill="#f7f7f7"/>
+  <rect x="78" y="78" width="1044" height="594" rx="18" fill="#fff" stroke="#d6d6d6"/>
+  <text x="112" y="138" fill="#111" font-family="Arial, sans-serif" font-size="34" font-weight="700">Parcel-Level Predicted Response Summary</text>
+  <ellipse cx="442" cy="394" rx="176" ry="216" fill="#efefef" stroke="#111" stroke-width="4"/>
+  <ellipse cx="704" cy="394" rx="176" ry="216" fill="#efefef" stroke="#111" stroke-width="4"/>
+  <g fill="#111">
+    <circle cx="390" cy="304" r="18"/>
+    <circle cx="478" cy="394" r="24"/>
+    <circle cx="362" cy="482" r="14"/>
+    <circle cx="664" cy="342" r="15"/>
+    <circle cx="760" cy="432" r="22"/>
+    <circle cx="690" cy="514" r="13"/>
+  </g>
+  <g fill="#fff" stroke="#111">
+    <rect x="888" y="252" width="150" height="22"/>
+    <rect x="888" y="302" width="198" height="22"/>
+    <rect x="888" y="352" width="118" height="22"/>
+    <rect x="888" y="402" width="170" height="22"/>
+  </g>
+</svg>
